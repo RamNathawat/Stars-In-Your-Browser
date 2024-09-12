@@ -1,6 +1,6 @@
-# Solar System Explorer
+# Stars in Your Browser
 
-Solar System Explorer is an interactive web application that offers a visually appealing and informative way to explore our solar system. Users can navigate through different planets, view detailed illustrations, and learn fascinating facts about each celestial body.
+Stars in Your Browser is an interactive web application that offers a visually appealing and informative way to explore our solar system. Users can navigate through different planets, view detailed illustrations, and learn fascinating facts about each celestial body.
 
 ## Features
 
@@ -17,15 +17,6 @@ Solar System Explorer is an interactive web application that offers a visually a
 - Framer Motion for animations
 - Styled Components for styling
 
-## Project Structure
-
-The project is structured as follows:
-
-- `index.js`: The entry point of the application
-- `App.jsx`: The main component that sets up routing and overall layout
-- `PlanetSection.js`: A reusable component for displaying planet information
-- `PlanetSectionStyles.js`: Styled components for the planet section layout
-
 ## Getting Started
 
 To run this project locally:
@@ -34,15 +25,11 @@ To run this project locally:
    ```
    git clone https://github.com/yourusername/solar-system-explorer.git
    ```
-2. Navigate to the project directory
-   ```
-   cd solar-system-explorer
-   ```
-3. Install dependencies
+2. Install dependencies
    ```
    npm install
    ```
-4. Start the development server
+3. Start the development server
    ```
    npm start
    ```
@@ -68,4 +55,4 @@ The application is designed to work on various screen sizes:
 
 ## Contributing
 
-Contributions to improve the Solar System Explorer are welcome. Please feel free to submit issues or pull requests.
+Contributions to improve the Stars in Your Browser are welcome. Please feel free to submit issues or pull requests.
